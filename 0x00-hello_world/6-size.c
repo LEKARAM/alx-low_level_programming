@@ -4,13 +4,15 @@
 
 /**
  *
- * *main -Entry point
+ *main -Entry point
  *
- * *Return: Always 0 (Success)
+ *Return: Always 0 (Success)
  *
- * */
+ */
 
 
+
+/*prints various the size of various types on the computer it is compiled and run on*/
 
 int main(void)
 
