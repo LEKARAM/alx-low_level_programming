@@ -13,7 +13,10 @@
 int main(void)
 
 {
-	//prints followed by a new line
+	/*
+	 * prints followed by a new line
+	 *
+	 */
 
 		puts("\"Programming is like building a multilingual puzzle");
 
