@@ -16,8 +16,8 @@ int main(void)
 {
 
 	/*
-	 * prints various the size of various types on the computer it is compiled and run on
-	 */ 
+	 * prints various the size of types on the computer it is compiled and run on
+	 */
 		printf("Size of a char: %zu byte(s)\n", sizeof(char));
 
 			printf("Size of an int: %zu byte(s)\n", sizeof(int));
