@@ -17,7 +17,8 @@ int main(void)
 	{
 		for (n = h + 1 ; n != 9 ; n++)
 		{
-			i = n + 1
+			i = n + 1;
+
 				do {
 					putchar('0' + h);
 					putchar('0' + n);
