@@ -36,3 +36,5 @@ int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);
  * int add_dnodepalid(void);
  * void find_palind(void);
  */
+
+#endif
